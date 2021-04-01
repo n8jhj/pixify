@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pixify"
+version = "0.1.0"
+description = "Make hand drawn images look nice on the computer."
+authors = ["Nathaniel Jones <nathaniel.j.jones@wsu.edu>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+matplotlib = "^3.4.1"
+numpy = "^1.20.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

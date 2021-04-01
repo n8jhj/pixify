@@ -1,2 +1,2 @@
 # pixify
- Make hand drawings look nice on the computer.
+ Make hand drawn images look nice on the computer.
